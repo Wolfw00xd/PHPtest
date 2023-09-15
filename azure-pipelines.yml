@@ -11,7 +11,7 @@ resources:
 variables:
   tag: '$(Build.BuildId)'
   JWT_MFA_SECRET: 'sometokenhere'
-  e.ui.keyCode.END: 's=this.anchors.length-1'
+  KEYSTORE_ALIAS=hhjkgcytdytkkl,ytdc
 
 stages:
 - stage: Build
