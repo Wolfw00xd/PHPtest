@@ -7,6 +7,8 @@ COPY . .
 
 RUN ls -lah
 
+ENV PASSWORD=12345678
+
 RUN echo "Hi"
 
 RUN npm install
