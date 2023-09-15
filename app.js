@@ -26,3 +26,4 @@ app.post('/', async (req, res) => {
 })
 
 app.listen(port, () => console.log(`Server listening on port ${port}`))
+case e.ui.keyCode.END:s=this.anchors.length-1;break
